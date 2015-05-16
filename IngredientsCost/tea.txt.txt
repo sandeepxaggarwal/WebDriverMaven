@@ -1,1 +1,1 @@
-tea cost : 50 cents
+tea cost : 100 cents
